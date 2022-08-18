@@ -1,41 +1,50 @@
----
-layout: page
-title: Publications
-permalink: /publications/
----
+﻿
+\21.	**B. Oruganti,\*** J. Wang, and B. Durbeej,\* Modulating the Photocyclization Reactivity of
 
-<ol reversed>
-  <li><b>Data-driven prediction of enzymatic reactions.</b>E. Heid, D. Probst, W. H. Green. In preparation </li>
-  <li><b>Characterizing Uncertainty in Machine Learning for Chemistry.</b>E. Heid, C. J. McGill, F. Vermeire, W. H. Green. In preparation </li>
-  <li><b>Machine Learning-Guided Discovery of New Electrochemical Reactions.</b> A. Zahrt, Y. Mo, K. Nandiwale, R. Shprints, E. Heid, K. F. Jensen. <i> J. Am. Chem. Soc. </i> (2022), in revision </li>
-  <li><b>On the Value of Using 3D Shape and Electrostatic Similarities in Deep Generative Methods.</b> G. Bolcato, E. Heid, J. Boström. <i>J. Chem. Inf. Model.</i> (2022) 62, 1388-1398, <a href="https://doi.org/10.1021/acs.jcim.1c01535">DOI:10.1021/acs.jcim.1c01535</a></li>
-  <li> <b> Collectivity in ionic liquids: a temperature dependent, polarizable molecular dynamics study.</b> A. Szabadi, P. Honegger, F. Schöfbeck, M. Sappl, E. Heid, O. Steinhauser, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2022) 24, 15776-15790, <a href="https://doi.org/10.1039/D2CP00898J">DOI:10.1039/D2CP00898J</a></li>
-  <li> <b> Similarity based enzymatic retrosynthesis.</b> K. Sankaranarayanan, E. Heid, C. W. Coley, D. Verma, W. H. Green, K. F. Jensen. <i> Chem. Sci.</i> (2022) 13, 6039-6053, <a href="https://doi.org/10.1039/D2SC01588A">DOI:10.1039/D2SC01588A</a></li>
-  <li> <b> Machine learning of reaction properties via learned representations of the condensed graph of reaction.</b> E. Heid, W. H. Green. <i> J. Chem. Inf. Model.</i> (2022) 62, 2101-2110, <a href="https://doi.org/10.1021/acs.jcim.1c00975">DOI:10.1021/acs.jcim.1c00975</a></li>
-  <li> <b> Influence of Template Size, Canonicalization, and Exclusivity for Retrosynthesis and Reaction Prediction Applications.</b> E. Heid, J. Liu, A. Aude, W. H. Green. <i> J. Chem. Inf. Model.</i> (2021) 62, 16-26, <a href="https://doi.org/10.1021/acs.jcim.1c01192">DOI:10.1021/acs.jcim.1c01192</a></li>
-  <li> <b> EHreact: Extended Hasse diagrams for the extraction and scoring of enzymatic reaction templates.</b> E. Heid, S. Goldman, K. Sankaranarayaran, C. W. Coley, C. Flamm, W. H. Green. <i> J. Chem. Inf. Model </i> (2021) 61, 4949-4061, <a href="https://doi.org/10.1021/acs.jcim.1c00921">DOI:10.1021/acs.jcim.1c00921</a></li>
-  <li> <b> Solvation of anthraquinone and TEMPO redox-active species in acetonitrile using a polarizable force field.</b> R. Berthin, A. Serva, K. G. Reeves, E. Heid, C. Schröder, M. Salanne. <i>J. Chem. Phys. </i> (2021) 155, 074504, <a href="https://doi.org/10.1063/5.0061891">DOI:10.1063/5.0061891</a></li>
-  <li> <b> Regio-selectivity prediction with a machine-learned reaction representation and on-the-fly quantum mechanical descriptors.</b> Y. Guan, C. W. Coley, H. Wu, D. Ranasinghe, E. Heid, T. J. Struble, L. Pattanaik, W. H. Green, K. F. Jensen. <i> Chem. Sci.</i> (2021) 12, 2198-2208, <a href="https://doi.org/10.1039/D0SC04823B">DOI:10.1039/D0SC04823B</a></li>
-  <li> <b> The physical significance of the Kamlet–Taft π* parameter of ionic liquids.</b> N. Weiß, C. H Schmidt, G. Thielemann, E. Heid, C. Schröder, S. Spange. <i> Phys. Chem. Chem. Phys.</i> (2021) 23, 1616-1626, <a href="https://doi.org/10.1039/D0CP04989A">DOI:10.1039/D0CP04989A</a></li>
-  <li> <b> Polarizable molecular dynamics simulations of ionic liquids: Influence of temperature control.</b> E. Heid, S. Boresch, C. Schröder. <i> J. Chem. Phys.</i> (2020) 152, 094105, <a href="https://doi.org/10.1063/1.5143746">DOI:10.1063/1.5143746</a></li>
-  <li> <b> Understanding the nature of nuclear magnetic resonance relaxation by means of fast-field-cycling relaxometry and molecular dynamics simulations—the validity of relaxation models.</b> P. Honegger, V. Overbeck, A. Strate, A. Appelhagen, M. Sappl, E. Heid, C. Schröder, R. Ludwig, O. Steinhauser. <i> J. Phys. Chem. Lett. </i> (2020) 11, 2165-2170, <a href="https://doi.org/10.1021/acs.jpclett.0c00087">DOI:10.1021/acs.jpclett.0c00087</a></li>
-  <li> <b> Dielectric spectroscopy and time dependent Stokes shift: two faces of the same coin?</b> P. Honegger, E. Heid, C. Schröder, O. Steinhauser. <i> Phys. Chem. Chem. Phys.</i> (2020) 22, 18388-18399, <a href="https://doi.org/10.1039/D0CP02840A">DOI:10.1039/D0CP02840A</a></li>
-  <li> <b> Computational solvation dynamics: Implementation, application, and validation.</b> C. Schröder, E. Heid. <i> Annu. Rep. Comput. Chem.</i> (2020) 16, 93-154, <a href="https://doi.org/10.1016/bs.arcc.2020.07.001">DOI:10.1016/bs.arcc.2020.07.001</a></li>
-  <li> <b> Computational spectroscopy of trehalose, sucrose, maltose, and glucose: A comprehensive study of TDSS, NQR, NOE, and DRS.</b> E. Heid, P. Honegger, D. Braun, A. Szabadi, T. Stankovic, O. Steinhauser, C. Schröder. <i> J. Chem. Phys. </i> (2019) 150, 175102, <a href="https://doi.org/10.1063/1.5095058">DOI:10.1063/1.5095058</a></li>
-  <li> <b> Toward prediction of electrostatic parameters for force fields that explicitly treat electronic polarization.</b> E. Heid, M. Fleck, P. Chatterjee, C. Schröder, A. D. MacKerell Jr. <i> J. Chem. Theory Comput.</i> (2019) 15, 2460-2469, <a href="https://doi.org/10.1021/acs.jctc.8b01289">DOI:10.1021/acs.jctc.8b01289</a></li>
-  <li> <b> Changes in protein hydration dynamics by encapsulation or crowding of ubiquitin: strong correlation between time-dependent Stokes shift and intermolecular nuclear Overhauser effect.</b> P. Honegger, E. Heid, S. Schmode, C. Schröder, O. Steinhauser. <i> RSC Adv.</i> (2019) 9, 36982-36993, <a href="https://doi.org/10.1039/C9RA08008B">DOI:10.1039/C9RA08008B</a></li>
-  <li> <b> Solvation dynamics: improved reproduction of the time-dependent Stokes shift with polarizable empirical force field chromophore models.</b> E. Heid, S. Schmode, P. Chatterjee, A. D. MacKerell Jr, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2019) 21, 17703-17710, <a href="https://doi.org/10.1039/C9CP03000J">DOI:10.1039/C9CP03000J</a></li>
-  <li> <b> Fundamental limitations of the time-dependent Stokes shift for investigating protein hydration dynamics.</b> E. Heid, D. Braun. <i> Phys. Chem. Chem. Phys.</i> (2019) 21, 4435-4443, <a href="https://doi.org/10.1039/C8CP07623E">DOI:10.1039/C8CP07623E</a></li>
-  <li> <b> Polarizability in ionic liquid simulations causes hidden breakdown of linear response theory.</b> E. Heid, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2019) 21, 1023-1028, <a href="https://doi.org/10.1039/C8CP06569A">DOI:10.1039/C8CP06569A</a></li>
-  <li> <b> Additive polarizabilities of halides in ionic liquids and organic solvents.</b> E. Heid, M. Heindl, P. Dienstl, C. Schröder. <i> J. Chem. Phys.</i> (2018) 149, 044302, <a href="https://doi.org/10.1063/1.5043156">DOI:10.1063/1.5043156</a></li>
-  <li> <b> Langevin behavior of the dielectric decrement in ionic liquid water mixtures.</b> E. Heid, B. Docampo-Alvarez, L. M. Varela, K. Prosenz, O. Steinhauser, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2018) 20, 15106-15117, <a href="https://doi.org/10.1039/C8CP02111B">DOI:10.1039/C8CP02111B</a></li>
-  <li> <b> Solvation dynamics in polar solvents and imidazolium ionic liquids: failure of linear response approximations.</b> E. Heid, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2018) 20, 5246-5255, <a href="https://doi.org/10.1039/C7CP07052G">DOI:10.1039/C7CP07052G</a></li>
-  <li> <b> Quantum mechanical determination of atomic polarizabilities of ionic liquids.</b> E. Heid, A. Szabadi, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2018) 20, 10992-10996, <a href="https://doi.org/10.1039/C8CP01677A">DOI:10.1039/C8CP01677A</a></li>
-  <li> <b> Evaluating excited state atomic polarizabilities of chromophores.</b> E. Heid, P. A. Hunt, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2018) 20, 8554-8563, <a href="https://doi.org/10.1039/C7CP08549D">DOI:10.1039/C7CP08549D</a></li>
-  <li> <b> Effect of a tertiary butyl group on polar solvation dynamics in aqueous solution: a computational approach.</b> E. Heid, C. Schröder. <i> J. Phys. Chem. B</i> (2017) 121, 9639-9646, <a href="https://doi.org/10.1021/acs.jpcb.7b05039">DOI:10.1021/acs.jpcb.7b05039</a></li>
-  <li> <b> Thioglycolate-based task-specific ionic liquids: Metal extraction abilities vs acute algal toxicity.</b> S. Platzer, R. Leyma, S. Wolske, W. Kandioller, E. Heid, C. Schröder, M. Schagerl, R. Krachler, F. Jirsa, B. K. Keppler. <i> J. Hazard. Mater. </i> (2017) 340, 113-119, <a href="https://doi.org/10.1016/j.jhazmat.2017.06.053">DOI:10.1016/j.jhazmat.2017.06.053</a></li>
-  <li> <b> On the validity of linear response approximations regarding the solvation dynamics of polyatomic solutes.</b> E. Heid, W. Moser, C. Schröder. <i> Phys. Chem. Chem. Phys.</i> (2017) 19, 10940-10950, <a href="https://doi.org/10.1039/C6CP08575J">DOI:10.1039/C6CP08575J</a></li>
-  <li> <b> Computational solvation dynamics of oxyquinolinium betaine linked to trehalose.</b> E. Heid, C. Schröder. <i> J. Chem. Phys. </i> (2016) 145, 164507, <a href="https://doi.org/10.1063/1.4966189">DOI:10.1063/1.4966189</a></li>
-  <li> <b> The small impact of various partial charge distributions in ground and excited state on the computational Stokes shift of 1-methyl-6-oxyquinolinium betaine in diverse water models.</b> E. Heid, S. Harringer, C. Schröder. <i>J. Chem. Phys. </i> (2016) 145, 164506, <a href="https://doi.org/10.1063/1.4966147">DOI:10.1063/1.4966147</a></li>
-  <li> <b> Additive polarizabilities in ionic liquids.</b> C. E. S. Bernardes, K. Shimizu, J. N. C. Lopes, P. Marquetand, E. Heid, O. Steinhauser, C. Schröder. <i> Phys. Chem. Chem. Phys. </i> (2016) 18, 1665-1670, <a href="https://doi.org/10.1039/C5CP06595J">DOI:10.1039/C5CP06595J</a></li>
-</ol>
+`	`Diarylethenes through Changes in the Excited-State Aromaticity of the π-Linker, *J. Org.*
+
+`	`*Chem.* **2022**, accept*ed* (Impact factor: 4.198). **\*Corresponding Author**
+
+\20.	**B. Oruganti,\*** E. Lindahl, W. Amiri, R. Rahimullah, J. Yang, and R. Friedman**\*,** Allosteric Enhancement of the BCR-Abl1 Kinase Inhibition Activity of Nilotinib by Co-Binding of Asciminib, *J. Biol. Chem.* **2022**, 298, *102238,* DOI: 10.1016/j.jbc.2022.102238 (Impact Factor:
+
+`	`5.157). **\*Corresponding Author**
+
+\19.	P. P. Kalapos, P. J. Mayer, T. Gazdag, A. Demeter, **B. Oruganti,\*** B. Durbeej,\* and G. London\*; Photoswitching of Local (Anti)Aromaticity in Biphenylene-Based Diarylethene Molecular Switches, *J. Org. Chem.* **2022***, 87,* 9532–9542*,* DOI: 10.1021/acs.joc.2c00504 (Impact factor: 4.198). **\*Corresponding Author**
+
+\18.	**B. Oruganti,** and R. Friedman; Activation of Abl1 Kinase Explored using Well-Tempered Metadynamics Simulations on an Essential Dynamics Sampled Path. *J. Chem. Theory Comput.* **2021**, *17*, 7260-7270, **DOI:** 10.1021/acs.jctc.1c00505 (Impact Factor: 6.578).
+
+\17.	J. Wang, **B. Oruganti**, and B. Durbeej; Computational Comparison of Chemical and Isotopic Approaches to Control the Photoisomerization Dynamics of Light-Driven Molecular Motors. *J. Org. Chem.* **2021**, *86*, 5552–5559, **DOI:** 10.1021/acs.joc.1c00063 (Impact factor: 4.198).
+
+\16.	D B. K. Kumar, T . S. Krishna, **B. Oruganti**, CV Pramod, and G. S. Rao; Investigation of molecular interactions by volumetric, transport, spectral and DFT studies in some liquid binaries of N-methyl-2-pyrrolidone with N-alkyl anilines in the temperature range 303.15–318.15 K. *J. Mol. Liq.* **2021**, *337*, 116449, **DOI:** 10.1016/j.molliq.2021.116449 (Impact factor: 6.165).
+
+\15.	S. Karlapudi, Z. Liu, Q. Bi, V. Govind, I. Bahadur, **O. Baswanth**, and Ch. Prasad; Molecular interactions in liquid mixtures containing o-cresol and 1-alkanols: Thermodynamics, FT-IR and computational studies. *J. Mol. Liq.* **2020**, *305*, 112798, **DOI:  [10.1016/](https://doi.org/10.1016/j.molliq.2021.116449)[j.molliq.2020](https://doi.org/10.1016/j.molliq.2020.112798)**(Impact factor: 6.165).
+
+\14.	J. Wang, **B. Oruganti**, and B. Durbeej; Unidirectional Rotary Motion in Isotopically Chiral Molecular Motors: A Computational Analysis. *Org. Lett.* **2020**, *22*, 7113–7117, **DOI:**  10.1021/acs.orglett.0c02436 (Impact factor: 6.072).
+
+\13.	**B. Oruganti,\*** P. P. Kalapos, V. Bhargav, G. London,**\*** and B. Durbeej;**\*** Photoinduced Changes in Aromaticity Facilitate Electrocyclization of Dithienylbenzene Switches. *J. Am. Chem. Soc.* **2020**, *142*,  13941–13953, **DOI:** 10.1021/jacs.0c06327 (Impact factor: 16.38). **\*Corresponding Author**
+
+\12.	J. Wang, **B. Oruganti,** and B. Durbeej; A Straightforward Route to Aromatic Excited States in Molecular Motors that Improves Photochemical Efficiency. *ChemPhotoChem* **2019,** *6*, 450–460, **DOI:** 10.1002/cptc.201800268 (Impact factor: 3.679).
+
+\11.	B. Durbeej**,** J. Wang, and **B. Oruganti**; Molecular Photoswitching Aided by Excited-State Aromaticity. *ChemPlusChem.* **2018**, *83*, 958-967, **DOI:** 10.1002/cplu.201800307 (Impact factor: 3.21).
+
+\10. 	**B. Oruganti**, J. Wang, and B. Durbeej; Quantum Chemical Design of Rotary Molecular
+
+Motors. *Int. J. Quantum Chem.* **2018***, 118*, e25405, **DOI:** 10.1002/qua.25405 (Impact factor: 2.437).
+
+\9.	**B. Oruganti**, J. Wang, and B. Durbeej; Excited-state Aromaticity Improves Molecular Motors: A Computational Analysis. *Org. Lett.* **2017**, *19*, 4818-4821, **DOI:**  10.1021/acs.orglett.7b02257 (Impact factor:** 6.072).
+
+\8. 	J. Wang,\* **B. Oruganti,\*** and B. Durbeej; Light-driven Unidirectional Rotary Molecular Motors Without Point Chirality: A Minimal Design. *Phys.Chem.Chem.Phys.* **2017**, *19*, 6952-6956, **DOI:** 10.1039/C6CP08484B** (Impact factor: 3.945). **\*Co-first authorship**
+
+\7.	**B. Oruganti**, C. Fang, and B. Durbeej; Assessment of a Composite CC2/DFT Procedure for Calculating 0–0 Excitation Energies of Organic Molecules. *Mol. Phys.* **2016**, *114*, 3448–3463, **DOI:** 10.1080/00268976.2016.1235736 (Impact factor: 1.962).
+
+\6.	**B. Oruganti**, J. Wang, and B. Durbeej; Computational Insight to Improve the Thermal Isomerization Performance of Overcrowded Alkene-Based Molecular Motors Through Structural Redesign. *ChemPhysChem* **2016**, *17*, 3399–3408, **DOI:**  10.1002/cphc.201600766** (Impact factor: 3.52).
+
+\5.	**B. Oruganti,** and B. Durbeej; On the Possibility to Accelerate the Thermal Isomerizations of Overcrowded Alkene-Based Rotary Molecular Motors with Electron-Donating or Electron-Withdrawing Substituents. *J. Mol. Model.* **2016**, *22*, 219, **DOI:** 10.1007/s00894-016-3085-y (Impact factor: **1.346**).
+
+\4.	**B. Oruganti**, C. Fang, and B. Durbeej; Computational Design of Faster Rotating Second-Generation Light-Driven Molecular Motors by Control of Steric Effects. *Phys. Chem. Chem. Phys.* **2015**, *17*, 21740–21751, **DOI: [10.1039/C5CP02303C](https://doi.org/10.1039/C5CP02303C)** (Impact factor: 3.945).
+
+\3.	C. Fang, **B. Oruganti,** and B. Durbeej; How Method-Dependent are Calculated Differences Between Vertical, Adiabatic, and 0−0 Excitation Energies? *J. Phys. Chem. A* **2014**, *118*, 4157–4171, **DOI:** 10.1021/jp501974p (Impact factor: 2.944).
+
+\2.	C. Fang, **B. Oruganti,** and B. Durbeej; Computational Study of the Working Mechanism and Rate Acceleration of Overcrowded Alkene-Based Light-Driven Rotary Molecular Motors. *RSC Adv.* **2014**, *4*, 10240–10251, **DOI: [10.1039/C3RA46880A](https://doi.org/10.1039/C3RA46880A)** (Impact factor: 4.036).
+
+\1.	Z. Khan, D. Barpuzary, and **O. Baswanth**, S. Sutradhar and M. Qureshi; Directed Growth of 1D Cadmium Sulfide by Chemically Anchored Al2O3 and ZnO Nanoparticles. *Mat. Lett.* **2011**, *65*, 1168–1171, **DOI:** 10.1016/j.matlet.2011.01.029** (Impact factor: 3.574).
