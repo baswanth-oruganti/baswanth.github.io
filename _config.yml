@@ -16,7 +16,7 @@
 title: Dr. Baswanth Oruganti
 email: baswanthoruganti.s@srmap.edu.in
 description: >- # this means to ignore newlines until "baseurl:"
-  A guide to getting started with Jekyll.
+  #A guide to getting started with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://baswanth.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: baswanth.github.io
